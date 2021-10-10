@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alberto Robador / Energy Ecologist"
 title_separator          : "-"
-name                     : &name "Dr. Alberto Robador"
+name                     : &name "Dr. Alberto Robador-Ausejo"
 description              : &description "personal description"
 url                      : https://arobadora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Alberto Robador Ausejo"
+  name             : "Dr. Alberto Robador-Ausejo"
   avatar           : "ADF8AD15-F099-4FAD-8CF1-9CA7891A1259_4_5005_c.jpeg"
   bio              : "Assistant Professor (Research) at the University of Southern California. Marine biogeochemistry...good enough"
   location         : "Los Angeles, CA"
