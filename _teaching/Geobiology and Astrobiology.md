@@ -1,7 +1,7 @@
 ---
 title: "Geobiology and Astrobiology"
 collection: teaching
-type: "Lecture"
+type: "Lecture, 4 Units"
 permalink: /teaching/Geobiology and Astrobiology
 venue: "University of Southern California, BISC 483 crosslisted as GEOL 483"
 date: "2021-01-01"
