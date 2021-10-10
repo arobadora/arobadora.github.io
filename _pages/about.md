@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research combines insights from thermodynamics with those of environmental microbiology in order to thoroughly study ENERGY FLOW VIA MICROORGANISMS IN THE OCEAN. I consider energy flow to be the FUNDAMENTAL ORGANIZATIONAL PROPERTY THAT TIES THE PHYSICAL AND BIOLOGICAL COMPONENTS OF ECOSYSTEMS. My specific aim is to develop a holistic approach that can underpin a realistic MONITORING PROGRAM to obtain a comprehensive energy budget for marine ecosystems. I believe that this approach is uniquely suited to improve our understanding of the structure and function of the ocean, including the regulation of biogeochemical cycles and the balance of the global marine biomass in a context of environmental change.
+My research combines insights from thermochemistry with those of geobiology in order to thoroughly study ENERGY FLOW VIA MICROORGANISMS IN THE OCEAN. I consider energy flow to be the FUNDAMENTAL ORGANIZATIONAL PROPERTY THAT TIES THE PHYSICAL AND BIOLOGICAL COMPONENTS OF ECOSYSTEMS. My specific aim is to develop a holistic approach that can underpin a realistic MONITORING PROGRAM to obtain a comprehensive energy budget for marine ecosystems. I believe that this approach is uniquely suited to improve our understanding of the structure and function of the ocean, including the regulation of biogeochemical cycles and the balance of the global marine biomass in a context of environmental change.
 
 His email is robadora at usc dot edu
 ======
