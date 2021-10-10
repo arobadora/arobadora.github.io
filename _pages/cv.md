@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biochemistry and Molecular Biology, University of Navarra, Pamplona, Spain 2003
+* M.Sc. in Marine Biogeochemistry, Max Planck Institute for Marine Microbiology, Bremen, Germany 2005
+* Ph.D  in Marine Biogeochemistry, Max Planck Institute for Marine Microbiology, Bremen, Germany 2009
 
-Work experience
+Possitions held
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Professor (Research), University of Southern California, Los Angeles, USA.
+* Affiliated Faculty, Wrigley Institute for Environmental Studies
+* Department of Biological Sciences, Marine and Environmental Biology Section, Los Angeles, USA (since 2018)
+* Postdoctoral Research Associate, Center for Dark Energy Biosphere Investigations (CDEBI) and NASA Astrobiology Institute, University of Southern        California, Los Angeles, USA (2012-2017)
+* Postdoctoral Research Associate, NASA Astrobiology Institute, University of Hawaii, Honolulu, USA (2009-2012)
+* Graduate Student Researcher, Max Planck Institute for Marine Microbiology, Department of Biogeochemistry, Bremen, Germany (2003-2009)
+* Research Assistant, Alfred Wegener Institute for Polar and Marine Research (AWI), Wadden Sea Station Sylt, Sylt, Germany (2002-2003)
   
 Skills
 ======
