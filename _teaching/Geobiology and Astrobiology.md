@@ -8,4 +8,4 @@ date: "2021-01-01"
 location: "Los Angeles, USA"
 ---
 
-Relationships between microbiota and the earth environment including the hydrosphere, lithosphere and atmosphere, with consideration of the potential for life on other planets. Prerequisite: (BISC 120Lg or BISC 121Lg) and (CHEM 105bL or CHEM 108L).
+Instructor of record with Doug Capone. Relationships between microbiota and the earth environment including the hydrosphere, lithosphere and atmosphere, with consideration of the potential for life on other planets. Prerequisite: (BISC 120Lg or BISC 121Lg) and (CHEM 105bL or CHEM 108L).
