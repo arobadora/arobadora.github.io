@@ -1,3 +1,5 @@
+
+![Editing a markdown file for a talk](/images/Header Water.jpg)
 ---
 permalink: /
 title: "About me"
