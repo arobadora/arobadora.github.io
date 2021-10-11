@@ -23,10 +23,13 @@ Projects
 
 Energy as microbial physiological variable
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+To provide a background for examining the energy flow principle in marine ecosystems, we shall also consider particular model systems which are designed to illustrate some of the limitations of natural systems and indicate the special areas of inquiry necessary to overcome these limitations.
+
+For example, the study of bacterial populations in long-term stationary-phase (LTSP) laboratory cultures can provide insights into physiological and genetic adaptations to varying energy conditions and population dynamics in natural environments. While overall population density remains stable in multi-week and multi-year LTSP cultures, these communities are very dynamic and are characterized by the rapid emergence and succession of distinct mutants expressing the growth advantage in stationary phase (GASP) phenotype, which can reflect an increased capacity to withstand energy fluctuations and general environmental stress. The ability of GASP mutants to withstand energy limitation for months to years due to the accumulation of novel mutations raises the question of whether it is possible to adapt to natural systems with energy limitations, specifically as a selective pressure.
+using nanocalorimetry, I have also identified previously unknown growth dynamics related to the temporal expression of an advantageous phenotype that allow mutants to capitalize on the decrease of energy over prolonged periods of time by remaining in an active, but limited, metabolic state. Similar strategies to those characterized in my laboratory strains might be relevant to understand mechanisms of survival in environmental bacteria over extended periods of low energy stress 
 
 ![Editing a markdown file for a talk](/images/GASP.png)
-Robador et al. 2019 Appl. Environ. Micro.
+Robador et al. 2019 Appl. Environ. Microbiol.
 
 Energetic bookkeeping in ocean ecosystems
 ------
