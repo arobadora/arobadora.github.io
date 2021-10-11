@@ -10,7 +10,7 @@ redirect_from:
 
 My research combines insights from geobiology with those of thermochemistry in order to gain a mechanistic understanding of ENERGY FLOW VIA MICROORGANISMS IN THE OCEAN. I consider energy flow to be the FUNDAMENTAL ORGANIZATIONAL PROPERTY THAT TIES THE PHYSICAL AND BIOLOGICAL COMPONENTS OF ECOSYSTEMS. My specific aim is to develop a holistic approach that can underpin a realistic MONITORING PROGRAM to obtain a comprehensive energy budget for marine ecosystems. I believe that this approach is uniquely suited to improve our understanding of the structure and function of the ocean, including the regulation of biogeochemical cycles and the balance of the global marine biomass in a context of environmental change.
 
-Robador received his Ph.D. from the Max Planck for Marine Microbiology in 2009. In 2018, he joined the University of Southern California as an Assistant Research Professor. In 2021, he is joining the The Hanse-Wissenschaftskolleg (HWK) as a Fellow developing research under the Earth focus.
+Robador received his Ph.D. from the Max Planck Institute for Marine Microbiology in 2009. He spent the follwoing years as a research associate within the NASA Astrobiology Institute at the University of Hawaii as well as the Center for Dark Energy Biosphere Investigations at the University of Southern California (USC). In 2018, he joined the Department of Biological Sciences at USC as an Assistant Research Professor. In 2021, he is joining the the Hanse-Wissenschaftskolleg (HWK) as a Fellow developing research under the focus Earth.
 
 His email is robadora at usc dot edu
 ======
