@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/Peer Reviewed Pub Banner.jpg)
+!(/images/Peer Reviewed Pub Banner.jpg)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
