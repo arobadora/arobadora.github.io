@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello there! I'm Alberto, an Assistant Professor for Research at the University of Southern California (USC) in the [Department of Biological Sciences](https://dornsife.usc.edu/bisc/), section [Marine and Environmental Biology](https://dornsife.usc.edu/meb/).
+
 
 My research combines insights from marine geobiology with those of thermochemistry in order to gain a mechanistic understanding of ENERGY FLOW VIA MICROORGANISMS IN THE OCEAN. I consider energy flow to be the FUNDAMENTAL ORGANIZATIONAL PROPERTY THAT TIES THE PHYSICAL AND BIOLOGICAL COMPONENTS OF ECOSYSTEMS. My specific aim is to develop a holistic approach that can underpin a realistic MONITORING PROGRAM to obtain a comprehensive energy budget for marine ecosystems. I believe that this approach is uniquely suited to improve our understanding of the structure and function of the ocean, including the regulation of biogeochemical cycles and the balance of the global marine biomass in a context of environmental change.
 
