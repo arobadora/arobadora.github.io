@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! I'm Alberto, an Assistant Professor for Research at the University of Southern California (USC) in the [Department of Biological Sciences](https://dornsife.usc.edu/bisc/), section [Marine and Environmental Biology](https://dornsife.usc.edu/meb/).
+Hello there! I'm Alberto, an Assistant Professor for Research at the University of Southern California (USC) in the [Department of Biological Sciences](https://dornsife.usc.edu/bisc/), section [Marine and Environmental Biology](https://dornsife.usc.edu/meb/). I'm a marine biogechemist by training with a background in biochemistry, but I have just enough expertise in environmental bioenergetics and thermochemistry to call myself an energy ecologist. My research, teaching, and broader service are all grounded in the idea that 
 
 My work and research
 ------
