@@ -15,7 +15,7 @@ My research combines insights from marine geobiology with those of thermochemist
 
 My background and history
 ------
-I received my Ph.D. from the [Max Planck Institute for Marine Microbiology](https://www.mpi-bremen.de/en/Home.html) in 2009. I spent the follwoing years as a research associate in various teams within the NASA Astrobiology Instiute at the at the University of Hawaii (UHNAI) and the [Life Underground](https://dornsife.usc.edu/life-underground) NASA Astrobiology Institute at the University of Southern California (USC) as well as the [Center for Dark Energy Biosphere Investigations](https://www.darkenergybiosphere.org) and . In 2018, I joined the Department of Biological Sciences –section Marine and Environmental Biology– at USC as an Assistant Professor for Research. In 2021, I am joining the Hanse-Wissenschaftskolleg (HWK) as a Fellow developing research under the focus Earth.
+I received my Ph.D. from the [Max Planck Institute for Marine Microbiology](https://www.mpi-bremen.de/en/Home.html) in 2009. I spent the follwoing years as a research associate in various teams within the [NASA Astrobiology Instiute at the at the University of Hawaii (UHNAI)](https://uhnai.ifa.hawaii.edu) and the [Life Underground](https://dornsife.usc.edu/life-underground) NASA Astrobiology Institute at the University of Southern California (USC) as well as the [Center for Dark Energy Biosphere Investigations](https://www.darkenergybiosphere.org) and . In 2018, I joined the Department of Biological Sciences –section Marine and Environmental Biology– at USC as an Assistant Professor for Research. In 2021, I am joining the Hanse-Wissenschaftskolleg (HWK) as a Fellow developing research under the focus Earth.
 
 My intellectual communities
 ------
